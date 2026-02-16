@@ -1,4 +1,4 @@
-<h3 align="left">Hi 👋! My name is Mayas and I'm a CSE from Palstine</h3>
+<h3 align="left">Hi 👋! My name is Mayas and I'm a Computer System Engineering from Palstine</h3>
 
 ###
 
