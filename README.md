@@ -5,12 +5,10 @@
 
 ---
 
-<h3 align="left">👩🏻‍💻 About Me</h3>
+<h3 align="left">📘 Project: Animal Trading Cards</h3>
 
 <p align="left">
-🎓 Computer System Engineering Student <br>
-💻 Passionate about Programming & Debugging <br>
-🚀 Always learning and building new skills
+My first project with Udacity. A simple web page built using HTML and CSS. A great start to learning web development.
 </p>
 
 ---
@@ -21,6 +19,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
 </div>
 
 ---
@@ -29,13 +31,12 @@
 
 <div align="left">
   <a href="mailto:mayaskhatatbeh488@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="gmail logo"/>
   </a>
 
   <img width="10" />
 
   <a href="https://www.linkedin.com/in/mayas-khatatbeh-64485636b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="linkedin logo"/>
   </a>
 </div>
-
