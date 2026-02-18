@@ -5,11 +5,15 @@
 
 ---
 
-<h3 align="left">📘 Project: Animal Trading Cards</h3>
+
+<h3 align="left">👩🏻‍💻 About Me</h3>
 
 <p align="left">
-My first project with Udacity. A simple web page built using HTML and CSS. A great start to learning web development.
+🎓 Computer System Engineering Student <br>
+💻 Passionate about Programming & Debugging <br>
+🚀 Always learning and building new skills
 </p>
+
 
 ---
 
